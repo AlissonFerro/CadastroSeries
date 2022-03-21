@@ -42,8 +42,7 @@ namespace Series
             {
                 var excluido = serie.retornaExcluido();
                 
-                Console.WriteLine("#ID {0}: - {1} - {2}", serie.retornaId(), serie.retornaTitulo(), excluido ? "Excluido" : "");
-                
+                Console.WriteLine("#ID {0}: - {1} - {2}", serie.retornaId(), serie.retornaTitulo(), excluido ? "Excluido" : "");                
             }
         }
 
