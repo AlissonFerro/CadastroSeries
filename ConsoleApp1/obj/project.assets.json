@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programação\\C#\\Demos\\Series\\Series\\Series.csproj",
-      "projectName": "Series",
-      "projectPath": "D:\\Programação\\C#\\Demos\\Series\\Series\\Series.csproj",
+      "projectUniqueName": "C:\\Users\\Alisson Ferro\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "C:\\Users\\Alisson Ferro\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\Alisson Ferro\\.nuget\\packages\\",
-      "outputPath": "D:\\Programação\\C#\\Demos\\Series\\Series\\obj\\",
+      "outputPath": "C:\\Users\\Alisson Ferro\\source\\repos\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
